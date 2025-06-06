@@ -52,4 +52,15 @@
             }
         }
     }
+    "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/jumawilliam/livewire-calendar"
+  }
+],
+"require": {
+  "jumawilliam/livewire-calendar": "dev-main"
+},
+"minimum-stability": "dev",
+"prefer-stable": true
 }
